@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: rgb(64, 34, 194);
+    height: 40px 30px;
+}
+
+
+
+
+p{ 
+    text-align: justify;
+    text-indent: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+    color: rgb(7, 7, 7);
+}
+
+ul{
+    list-style-type:none;
+    background-color: rgb(249, 250, 245);
+    text-align: center;
+}
+
+li{
+    Display:inline;
+    padding: 25px ;
+}
+img {display: block;
+     margin: auto;
+}
+
+p.par1 { text-align: center;
+          color: red;
+}
+
+p.par2 {color: rgb(33, 129, 48);
+}
+
+p.par3 { text_align: center;
+          color: rgb(113, 96, 204);
+}
+
+p.par4 {text_align: center;
+           color: rgb(113,96,204);
+}
+
+body {
+  background-image: url('./IMG-20241025-WA0019.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
